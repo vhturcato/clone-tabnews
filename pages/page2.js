@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-function Page2 (){
+function page2 (){
     return (
         <h1>
   Index <Link href="/index.js"> Index</Link>
@@ -8,4 +8,4 @@ function Page2 (){
     )
 }
 
-export default Page2;
+export default page2;
