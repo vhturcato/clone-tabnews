@@ -4,7 +4,7 @@ function Home (){
     return (
     
     <h1>
-    Page2 <Link href="/page2.js">Page 2</Link>
+    Page2 <Link href="/page2">Page 2</Link>
     </h1>
     )
 }
