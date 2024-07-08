@@ -4,7 +4,7 @@ function p2 (){
     return (
     
     <h1>
-    Index <Link href="/">Link to page</Link>
+    Index <Link href="/">Link to page 2</Link>
     </h1>
     )
 }
