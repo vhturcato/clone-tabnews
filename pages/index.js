@@ -2,7 +2,7 @@ import Link from "next/link";
 
 function Home() {
   return (
-    <h1>
+    <h1 className="text-3xl font-bold underline">
       Link para <Link href="/page2">Page 2</Link>
     </h1>
   );
